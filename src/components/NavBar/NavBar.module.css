@@ -1,0 +1,16 @@
+.navBar {
+  grid-area: n;
+  background-color: rgba(20, 73, 82, 0.637);
+  margin: 2.5px;
+  padding: 20px;
+}
+
+.friends {
+  padding-top: 30px;
+}
+
+.friend {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
