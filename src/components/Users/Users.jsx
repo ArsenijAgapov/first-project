@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import s from './Users.module.css';
 import userPhoto from '../../assets/user.png'
 
